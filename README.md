@@ -1,1 +1,3 @@
-# FutureSales
+Sales prediction is an imperative task for businesses to sustain themselves in a competitive market. Accurate forecasting helps businesses to make informed decisions regarding inventory management, pricing, and marketing strategies. This project aims to predict future sales using neural networks. 
+
+Using a time series sales data taken from kaggle, Two neural network models are proposed for time series sales forecasting: (1) Long Short-Term Memory (LSTM), and (2) Encoder-decoder using LSTM. LSTM, type of Recurrent Neural Network (RNN), has been a proven model for sales prediction. Encoder-decoder are also well-suited to model the complex temporal dependencies that exist in time series data Both LSTM and encoder-decoder are reliable models. However, Encoder-decorder model, with the ability to learn more compact representation of sequential input data, outperforms LSTM and provides better generalisation. 
